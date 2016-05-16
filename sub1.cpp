@@ -1,4 +1,4 @@
-void sub1()
+bool sub1()
 {
-    return;
+    return false;
 }
